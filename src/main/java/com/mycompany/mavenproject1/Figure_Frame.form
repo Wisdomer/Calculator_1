@@ -118,25 +118,25 @@
                               <Group type="102" attributes="0">
                                   <Component id="Button6" min="-2" pref="92" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="Buttonplus" min="-2" pref="92" max="-2" attributes="0"/>
+                                  <Component id="ButtonJia" min="-2" pref="92" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="Button9" min="-2" pref="92" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="Buttonminus" min="-2" pref="92" max="-2" attributes="0"/>
+                                  <Component id="ButtonJian" min="-2" pref="92" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="Buttoncheng" min="-2" pref="92" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="jButton2" min="-2" pref="92" max="-2" attributes="0"/>
+                                  <Component id="ButtonDelet" min="-2" pref="92" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" attributes="0">
                                   <Group type="103" groupAlignment="0" attributes="0">
                                       <Component id="Button3" alignment="0" min="-2" pref="92" max="-2" attributes="0"/>
-                                      <Component id="jButton1" alignment="0" min="-2" pref="92" max="-2" attributes="0"/>
+                                      <Component id="ButtonPoint" alignment="0" min="-2" pref="92" max="-2" attributes="0"/>
                                   </Group>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="Buttondeng" min="-2" pref="92" max="-2" attributes="0"/>
+                                  <Component id="ButtonDengyu" min="-2" pref="92" max="-2" attributes="0"/>
                               </Group>
                           </Group>
                       </Group>
@@ -152,19 +152,19 @@
                       <Component id="ButtonAC" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
                       <Component id="Buttonchu" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
                       <Component id="Buttoncheng" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
-                      <Component id="jButton2" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="ButtonDelet" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
                   </Group>
                   <Group type="103" groupAlignment="3" attributes="0">
                       <Component id="Button7" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
                       <Component id="Button8" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
                       <Component id="Button9" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
-                      <Component id="Buttonminus" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="ButtonJian" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
                   </Group>
                   <Group type="103" groupAlignment="3" attributes="0">
                       <Component id="Button4" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
                       <Component id="Button5" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
                       <Component id="Button6" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
-                      <Component id="Buttonplus" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="ButtonJia" alignment="3" min="-2" pref="44" max="-2" attributes="0"/>
                   </Group>
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="102" attributes="0">
@@ -175,11 +175,11 @@
                           </Group>
                           <Group type="103" groupAlignment="0" max="-2" attributes="0">
                               <Component id="Button0" pref="44" max="32767" attributes="0"/>
-                              <Component id="jButton1" max="32767" attributes="0"/>
+                              <Component id="ButtonPoint" max="32767" attributes="0"/>
                           </Group>
                           <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                       </Group>
-                      <Component id="Buttondeng" max="32767" attributes="0"/>
+                      <Component id="ButtonDengyu" max="32767" attributes="0"/>
                   </Group>
                   <EmptySpace max="-2" attributes="0"/>
               </Group>
@@ -235,7 +235,7 @@
             <Property name="text" type="java.lang.String" value="6"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JButton" name="Buttonminus">
+        <Component class="javax.swing.JButton" name="ButtonJian">
           <Properties>
             <Property name="text" type="java.lang.String" value="-"/>
           </Properties>
@@ -255,7 +255,7 @@
             <Property name="text" type="java.lang.String" value="3"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JButton" name="Buttonplus">
+        <Component class="javax.swing.JButton" name="ButtonJia">
           <Properties>
             <Property name="text" type="java.lang.String" value="+"/>
           </Properties>
@@ -265,17 +265,17 @@
             <Property name="text" type="java.lang.String" value="0"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JButton" name="Buttondeng">
+        <Component class="javax.swing.JButton" name="ButtonDengyu">
           <Properties>
             <Property name="text" type="java.lang.String" value="="/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton1">
+        <Component class="javax.swing.JButton" name="ButtonPoint">
           <Properties>
             <Property name="text" type="java.lang.String" value="."/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JButton" name="jButton2">
+        <Component class="javax.swing.JButton" name="ButtonDelet">
           <Properties>
             <Property name="text" type="java.lang.String" value="Del"/>
           </Properties>
